@@ -1,0 +1,23 @@
+#output {
+  text-align: center;
+  width: 500px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: slategray;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  height: 300px;
+  width: auto
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
